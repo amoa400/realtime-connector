@@ -1,0 +1,26 @@
+{
+  "author": "amoa400 <amoa400@163.com>",
+  "name": "realtime-connector",
+  "description": "innobuddy realtime connector layer",
+  "version": "0.0.1",
+  "keywords": [
+    "realtime",
+    "communication",
+    "mqtt",
+    "engine.io"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@192.168.1.2:captain.git"
+  },
+  "engines": {
+    "node": ">=0.11.2"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "co": "^3.1.0",
+    "engine.io": "^1.4.1",
+    "thunkify": "^2.1.2"
+  },
+  "devDependencies": {}
+}
