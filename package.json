@@ -15,7 +15,8 @@
   },
   "main": "index.js",
   "dependencies": {
-    "engine.io": "^1.4.1"
+    "engine.io": "^1.4.1",
+    "zmq": "^2.8.0"
   },
   "devDependencies": {}
 }
